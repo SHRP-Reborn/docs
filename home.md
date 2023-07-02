@@ -1,6 +1,6 @@
 ![](_media/shrp-logo.png)
 
-## SkyHawk Recovery Project
+## SkyHawk Recovery Project Reborn
 *Android recovery based on TeamWin Recovery Project with rich UI and Features.*
 
 ### Key Features
@@ -16,4 +16,4 @@
 [Download](downloads) |
 [Changelogs](changelogs) |
 [Contact](contact) |
-[GitHub](https://github.com/SHRP)
+[GitHub](https://github.com/SHRP-Reborn)

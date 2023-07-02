@@ -1,4 +1,4 @@
-# SHRP Build Flags
+# SHRP Reborn Build Flags
 
 Configure SHRP in `BoardConfig.mk`
 

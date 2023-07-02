@@ -4,18 +4,23 @@ Get in contact with us though one of the following options.
 
 ## Links
 
-- [Website](https://skyhawkrecovery.github.io/)
-- [Telegram Group](https://t.me/sky_hawk)
-- [Telegram Channel](https://t.me/shrp_official)
+- [Website](https://skyhawkreborn.github.io/)
+- [Telegram Group](https://t.me/shrp_reborn)
+- [Telegram Channel](https://t.me/shrp_reborn_updates)
 
-## Team
+## SHRP Team
 
 - EpicX (Founder)
 - DNI9
 - Giovix92
 
+## SHRP Reborn Team
+
+- rxuglr (Lead dev)
+
 ## Special thanks
 
+- EpicX, DNI9, Giovix92 for bringing original SHRP to life
 - @osm0sis@XDA for AIK (Android Image Kitchen) & disable_dm-verify
 - Teamwin' team for their TWRP base
 - Mauronofrio@XDA for his inject twrp commit

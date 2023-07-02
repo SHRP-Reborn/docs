@@ -1,6 +1,6 @@
 {
-    "name": "Skyhawk Recovery Project",
-    "short_name" : "SHRP",
+    "name": "Skyhawk Recovery Project Reborn",
+    "short_name" : "SHRP Reborn",
     "start_url": "index.html?utm_source=homescreen",
     "scope" : "./",
     "icons": [
