@@ -231,19 +231,19 @@ SHRP_EXCLUDE_MAGISK_FLASH := true
 # Addons will be shown in the "Tweaks" section of SHRP.
 
 # Custom addon folder. Do not forget to put a "/" at the end of the path!
-SHRP_EXTERNAL_ADDON_PATH := "device/<device-brand>/$(SHRP_DEVICE_CODE)/<AddonFolderName>/"
+SHRP_EXTERNAL_ADDON_PATH := 'device/<device-brand>/$(SHRP_DEVICE_CODE)/<AddonFolderName>/'
 
 # Addon #1 - Name
-SHRP_EXTERNAL_ADDON_1_NAME := "LOS Recorder"
+SHRP_EXTERNAL_ADDON_1_NAME := 'LOS Recorder'
 # Addon #1 - Description
-SHRP_EXTERNAL_ADDON_1_INFO := "A magisk module which add lineageOS recorder into your system"
+SHRP_EXTERNAL_ADDON_1_INFO := 'A magisk module which add lineageOS recorder into your system'
 # Addon #1 - Addon file name as ZIP (zip format is required)
-SHRP_EXTERNAL_ADDON_1_FILENAME := "los_recorder.zip"
+SHRP_EXTERNAL_ADDON_1_FILENAME := los_recorder.zip
 # Addon #1 - Free defineable button text the user need to press to actually install that addon
 # (Examples: Ok, Install, Flask, Enable, Disable, etc)
-SHRP_EXTERNAL_ADDON_1_BTN_TEXT := "Install"
+SHRP_EXTERNAL_ADDON_1_BTN_TEXT := Install
 # Addon #1 - Text beeing shown when the installation was successful
-SHRP_EXTERNAL_ADDON_1_SUCCESSFUL_TEXT := "Installed"
+SHRP_EXTERNAL_ADDON_1_SUCCESSFUL_TEXT := Installed
 # Addon #1 - Inject the addon into the recovery (if so: be sure that it will fit into the partition)
 # Default (if not set) is NOT adding this addon into the recovery ramdisk. That means:
 # If you do NOT set this the addon will be saved into the internal storage (i.e: $(SHRP_INTERNAL)/SHRP/addons)
@@ -263,4 +263,4 @@ SHRP_INC_IN_REC_EXTERNAL_ADDON_1 := true
 ## Reference Configuration
 
 This configuration will give you a basic idea about flags.
-Click [here](https://raw.githubusercontent.com/SHRP-Devices/device_coolpad_c103/treble/BoardConfig.mk) to view.
+Click [here](https://raw.githubusercontent.com/SHRP-Reborn/android_device_xiaomi_surya/blob/android-12.1/BoardConfig.mk) to view.
