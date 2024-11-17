@@ -17,6 +17,7 @@ Get in contact with us though one of the following options.
 ## SHRP Reborn Team
 
 - rxuglr (Lead dev)
+- hraj9258
 
 ## Special thanks
 

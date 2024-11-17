@@ -97,17 +97,6 @@ SHRP_FLASH := <0|1>
 # OPTIONAL FLAGS # Stuff which highly depends on your device and / or personal preferences #
 ################## #########################################################################
 
-# SHRP padding flag (for rounded corner devices only)
-# You have to change these values according to your device's roundness.
-Default (for RIGHT): 20
-SHRP_STATUSBAR_RIGHT_PADDING := <1-XXX>
-# Default (for LEFT): 20
-SHRP_STATUSBAR_LEFT_PADDING := <1-XXX>
-
-# For notch devices
-# Default (if not set): N/A
-SHRP_NOTCH := true
-
 # SHRP Express, enables on-the-fly theme patching (also persistent) + persistent lock
 # Default (if not set): N/A
 SHRP_EXPRESS := true

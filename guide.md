@@ -2,44 +2,11 @@
 
 **Available Branches**
 
-| android versions |   branch  |
-| :--------------: | :-------: |
-|        9         | shrp-9.0  |
-|       10,11      | shrp-12.1 |
-|        12        | shrp-12.1 |
+| android versions       |   branch  |
+| :--------------------: | :-------: |
+|        10,11,12        | shrp-12.1 |
 
 <br />
-
-# Android 9
-
-- To initialize your local repository using the OMNIROM trees to build SHRP Reborn, use a command like this:
-
-```bash
-repo init -u https://github.com/SHRP/manifest.git -b v3_9.0
-```
-
-- Then to sync up:
-
-```bash
-repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
-```
-
-- Then to build for a device with recovery partition:
-
-```bash
-cd <source-dir>
-. build/envsetup.sh
-lunch omni_<device>-eng
-mka recoveryimage
-```
-
-- or in one line
-
-```
-source build/envsetup.sh; lunch omni_<device>-eng; mka recoveryimage
-```
-
-<br /><br />
 
 # Android 10,11
 Android 10 and 11 isn't supported anymore. We recommend to update your trees for Android 12.1
